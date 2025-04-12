@@ -1,0 +1,2 @@
+# edusync
+ School Management
